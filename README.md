@@ -62,7 +62,7 @@ research-assistant/
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/RAmNarayan3231/Smart-Research-Assistant.git
+git clone https://github.com/RamNarayan3231/Smart-Research-Assistant.git
 cd research-assistant
 ```
 ### 2. Set up Environment
