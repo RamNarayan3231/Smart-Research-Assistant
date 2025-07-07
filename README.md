@@ -1,5 +1,6 @@
 
-#📚 Smart Research Assistant
+📚 Smart Research Assistant
+
 An AI-powered web application that allows users to upload research documents (PDF/TXT), ask questions, receive AI-generated answers with justifications, and evaluate their own understanding through generated challenge questions and feedback.
 
 #🔧 Features
