@@ -94,36 +94,50 @@ streamlit run frontend/app.py
 It will launch the frontend at http://localhost:8501.
 
 # 🛠️ API Endpoints
-```
+
 Method	Endpoint	Description
+
 POST	/upload/	Upload and process a document
+
 POST	/ask/{doc_id}	Ask a question about a document
+
 GET	/challenge/{doc_id}	Generate challenge questions
+
 POST	/evaluate/{doc_id}/{id}	Evaluate user's answer
+
 GET	/	API homepage
-```
+
 
 
 ## 📚 Technologies 
 
-```
 Python 3.10+
+
 Streamlit – for interactive frontend
+
 FastAPI – for robust backend APIs
+
 LangChain – for chaining LLM prompts
+
 OpenRouter – LLM API provider
+
 PyPDF2 – for PDF reading
+
 Pydantic – for data validation
-```
+
 
 ## 🧠 Future Improvements
-```
+
 ✅ Semantic search for better QA context
+
 ✅ PDF OCR (for scanned PDFs)
+
 ✅ Save sessions and history
+
 ✅ MCQ generation
+
 ✅ Multilingual support
-```
+
 ## 🤝 Contributing
 Feel free to fork the repo and submit pull requests. For major changes, open an issue first.
 
