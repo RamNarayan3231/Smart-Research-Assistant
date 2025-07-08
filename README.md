@@ -107,6 +107,22 @@ POST	/evaluate/{doc_id}/{id}	Evaluate user's answer
 
 GET	/	API homepage
 
+# 🧪 Postman Collection
+
+You can test the API using this [Postman Collection](./Smart-Research-Assistant.postman_collection.json).
+
+Postman Collection.json = https://github.com/RamNarayan3231/Smart-Research-Assistant/blob/main/Smart%20Research%20Assistant%20API.postman_collection.json
+
+Import it into Postman to try endpoints like `/upload`, `/ask/{doc_id}`, `/evaluate`, etc.
+
+### Folder Structure in Postman
+```
+Smart Research Assistant API/
+├── Upload File [POST /upload]
+├── Ask Question [POST /ask/{doc_id}]
+├── Get Challenges [GET /challenge/{doc_id}]
+└── Evaluate Answer [POST /evaluate/{doc_id}/{question_id}]
+```
 
 
 ## 📚 Technologies 
