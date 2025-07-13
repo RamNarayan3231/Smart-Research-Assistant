@@ -4,7 +4,7 @@ import os
 
 # Configure backend URL
 # BACKEND_URL = "http://localhost:8000" 
-BACKEND_URL = "https://smart-research-assistant-backend-production-xyz.up.railway.app"
+BACKEND_URL = "https://believable-dream-production.up.railway.app"
 # Update if your backend runs elsewhere
 
 # Set page config
