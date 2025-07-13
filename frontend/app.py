@@ -3,7 +3,9 @@ import requests
 import os
 
 # Configure backend URL
-BACKEND_URL = "http://localhost:8000"  # Update if your backend runs elsewhere
+# BACKEND_URL = "http://localhost:8000" 
+BACKEND_URL = "https://smart-research-assistant-backend-production-xyz.up.railway.app"
+# Update if your backend runs elsewhere
 
 # Set page config
 st.set_page_config(
