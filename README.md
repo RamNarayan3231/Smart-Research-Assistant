@@ -3,6 +3,8 @@
 
 An AI-powered web application that allows users to upload research documents (PDF/TXT), ask questions, receive AI-generated answers with justifications, and evaluate their own understanding through generated challenge questions and feedback.
 
+🚀 **Live Demo:** [Click here to access the app](https://smart-research-assistant-production-8b40.up.railway.app/)
+
 ## 🔧 Features
 
 ✅ Upload PDF or TXT documents
